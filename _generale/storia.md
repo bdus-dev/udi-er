@@ -5,6 +5,11 @@ permalink: /storia
 image: images/storia.jpg
 ---
 
+#### Gli archivi Udi si presentano
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPdxkUN_6_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+___
+
 La Rete Regionale Archivi UDI dell’Emilia-Romagna nasce nel 1989, come coordinamento regionale degli archivi, centri di documentazione e biblioteche emiliano-romagnole dell’UDI (Bologna, Ferrara, Forlì, Imola, Modena, Ravenna, Reggio Emilia).
 Proprio in quell’anno venne siglata un’importante convenzione con la Regione Emilia-Romagna, rinnovata nei trent’anni successivi, che riconosceva il valore del patrimonio storico conservato dalle associazioni nei rispettivi archivi e biblioteche, ritenendolo “l’espressione della ricchezza di elaborazione del pensiero delle donne, delle loro lotte e delle conquiste ottenute”.  
 La genesi della Rete Regionale alla fine degli anni Ottanta è strettamente connessa ai processi più generale che interessarono l’UDI su base nazionale all’inizio degli anni Ottanta. Il Congresso del 1982 costituì un momento di svolta politica fondamentale nella storia dell’associazione, sancendo una trasformazione organizzativa e una cesura politica molto forte con il proprio passato. Proprio in quel contesto maturò la consapevolezza del patrimonio di storia depositato presso le sedi, nazionale e locali, dell’associazione.
